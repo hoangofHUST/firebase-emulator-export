@@ -1,0 +1,17 @@
+{
+  "name": "emulator-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=3000 node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/testing": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-tools": "^7.1.0"
+  }
+}
